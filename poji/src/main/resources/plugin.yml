@@ -1,0 +1,5 @@
+name: BreakBedrock
+version: '1.0'
+main: com.example.breakbedrock.BreakBedrock
+api-version: '1.21'
+description: A plugin that allows breaking bedrock with special TNT 
