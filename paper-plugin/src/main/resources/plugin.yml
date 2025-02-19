@@ -1,0 +1,6 @@
+name: PlayerMessage
+version: '1.0-SNAPSHOT'
+main: com.example.playermessage.PlayerMessage
+api-version: '1.20'
+description: A plugin to handle player connection messages
+author: whitelu

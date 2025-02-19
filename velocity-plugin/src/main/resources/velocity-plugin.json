@@ -1,0 +1,8 @@
+{
+  "id": "playermessage",
+  "name": "PlayerMessage",
+  "version": "1.0.0",
+  "description": "A plugin to handle player connection messages",
+  "authors": ["whitelu"],
+  "main": "com.example.playermessage.VelocityPlugin"
+} 
